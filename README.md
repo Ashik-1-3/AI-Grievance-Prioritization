@@ -146,4 +146,12 @@ GitHub: [Ashik-1-3](https://github.com/Ashik-1-3)
 
 *Developed as an AI-powered solution for smarter and more efficient grievance management.*
 
-Dataset Link: https://drive.google.com/drive/folders/1ZLtPl29TGnc-yyt_WqqG7NRFn7BWd5ih?usp=sharing
+## 📂 Dataset
+
+The dataset used for this project is available on Google Drive.
+
+🔗 **[Access the Dataset](https://drive.google.com/drive/folders/1ZLtPl29TGnc-yyt_WqqG7NRFn7BWd5ih?usp=sharing)**
+
+The dataset supports the development and testing of the AI-powered grievance prioritization system.
+
+**Note:** Ensure that the Google Drive folder has the appropriate sharing permissions so that users can access the dataset.
